@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2>Skill Stack</h2>
 <h2>Projects</h2>
 <h2>Connect with Me</h2>
-<a href=''>
+<a target="_blank" href="https://www.linkedin.com/in/santiago-reyes-257778283/">
   <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect width="256" height="256" rx="60" fill="white"/>
     <rect width="256" height="256" rx="60" fill="#0A66C2"/>
