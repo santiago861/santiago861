@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <h2>About Me</h2>
 <h2>Skill Stack</h2>
-<hr>
+<h2>Projects</h2>
+<h2>Connect with Me</h2>
+
 
 
