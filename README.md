@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>About Me</h2>
+<h2>Skill Stack</h2>
 <hr>
+
 
