@@ -3,6 +3,7 @@
 <h2>About Me</h2>
 <h2>Skill Stack</h2>
 <h2>Projects</h2>
+<h3>Projects by Topic</h3>
 <ul>
     <li><a target='_blank' href='#'>repository link</a>: about</li>
 </ul>
