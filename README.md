@@ -5,7 +5,14 @@
 <h2>Projects</h2>
 <h3>Projects by Topic</h3>
 <ul>
-    <li><a target='_blank' href='#'>repository link</a>: about</li>
+    <li><a target='_blank' href='#'>repository link</a>: technologies</li>
+    <li><a target='_blank' href='#'>repository link</a>: technologies</li>
+</ul>
+
+<h3>Projects by Topic</h3>
+<ul>
+    <li><a target='_blank' href='#'>repository link</a>: technologies</li>
+    <li><a target='_blank' href='#'>repository link</a>: technologies</li>
 </ul>
 <h2>Connect with Me</h2>
 
