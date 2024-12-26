@@ -8,7 +8,6 @@
     <li><a target='_blank' href='#'>repository link</a>: technologies</li>
     <li><a target='_blank' href='#'>repository link</a>: technologies</li>
 </ul>
-
 <h3>Projects by Topic</h3>
 <ul>
     <li><a target='_blank' href='#'>repository link</a>: technologies</li>
