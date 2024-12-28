@@ -1,5 +1,14 @@
 <h1>Hi there 👋</h1>
 
+<!--
+- Im currently working on...
+- Im currently learning...
+- Im looking to collaborate on...
+- Im looking for help with...
+- Ask me about...
+
+-->
+
 <h2>About Me</h2>
 <h2>Skill Stack</h2>
 <h2>Projects</h2>
@@ -13,7 +22,7 @@
     <li><a target='_blank' href='#'>repository link</a>: technologies</li>
     <li><a target='_blank' href='#'>repository link</a>: technologies</li>
 </ul>
-<h2>Connect with Me</h2>
+<h2>How to reach Me:</h2>
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/santiago-reyes-257778283/)
