@@ -10,7 +10,24 @@
 -->
 
 <h2>About Me</h2>
+
+
+
 <h2>Skill Stack</h2>
+<h3>Categorie</h3>
+
+![JAVA](https://skillicons.dev/icons?i=java)
+![PYTHON](https://skillicons.dev/icons?i=python)
+![JAVA-SCRIPT](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+<h3>Categorie</h3>
+
+<h3>Categorie</h3>
+
+
+
 <h2>Projects</h2>
 <h3>Projects by Topic</h3>
 <ul>
