@@ -32,5 +32,9 @@
     
 
 <h2>GitHub Stats</h2>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username={santiago861}&theme=blue-green'>
+<a href="https://github.com/santiago861">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santiago861&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santiago861&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
