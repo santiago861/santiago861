@@ -31,5 +31,6 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/santiago.reyes861/)
     
 
-
+<h2>GitHub Stats</h2>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username={santiago861}&theme=blue-green'>
 
