@@ -35,7 +35,7 @@
 
 <h2>Featured Repositories</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santiago861&repo=LogicProblems&theme=midnight-purple)](https://github.com/santiago861/LogicProblems.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santiago861&repo=LogicProbles&theme=midnight-purple)](https://github.com/santiago861/LogicProblems.git)
 
 <h2>How to reach Me:</h2>
 
