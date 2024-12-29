@@ -30,7 +30,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santiago861&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santiago861&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
-</p>
 
 
 <h2>Featured Repositories</h2>
