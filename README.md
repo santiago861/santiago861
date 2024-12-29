@@ -22,19 +22,26 @@
     <li><a target='_blank' href='#'>repository link</a>: technologies</li>
     <li><a target='_blank' href='#'>repository link</a>: technologies</li>
 </ul>
-<h2>How to reach Me:</h2>
 
+    
+
+<h2>GitHub Stats</h2>
+<a href="https://github.com/santiago861">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santiago861&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santiago861&layout=compact&langs_count=8&theme=midnight-purple"/>
+</a>
+</p>
+
+
+<h2>Featured Repositories</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santiago861&repo=LogicProblems&theme=midnight-purple)](https://github.com/santiago861/LogicProblems.git)
+
+<h2>How to reach Me:</h2>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/santiago-reyes-257778283/)
 [![MailTo](https://skillicons.dev/icons?i=gmail)](mailto:santiagorm.oficial@gmail.com?subject=Let's%20Work%20Together)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/SantiagoRM861)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/santiago.reyes861/)
-    
 
-<h2>GitHub Stats</h2>
-<a href="https://github.com/santiago861">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santiago861&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santiago861&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
