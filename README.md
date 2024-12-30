@@ -31,7 +31,7 @@
 <h2>Projects</h2>
 <h3>Algorithmic Trading</h3>
 <ul>
-    <li><a target='_blank' href='https://github.com/santiago861/MT5-Framework.git'>MT5-Framework</a>: </li>
+    <li><a target='_blank' href='https://github.com/santiago861/MT5-Framework.git'>MT5-Framework</a>: Python, Amazon Web Services (AWS)</li>
     <li><a target='_blank' href='#'>repository link</a>: technologies</li>
 </ul>
 <h3>Projects by Topic</h3>
