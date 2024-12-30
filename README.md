@@ -51,7 +51,7 @@
 
 <h2>Featured Repositories</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santiago861&repo=MT5-Framework&theme=midnight-purple)](HTTPS-REPO-LINK)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santiago861&repo=MT5-Framework&theme=midnight-purple)](https://github.com/santiago861/MT5-Framework.git)
 
 <h2>How to reach Me</h2>
 
