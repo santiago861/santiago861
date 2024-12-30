@@ -29,7 +29,7 @@
 
 
 <h2>Projects</h2>
-<h3>Projects by Topic</h3>
+<h3>Algorithmic Trading</h3>
 <ul>
     <li><a target='_blank' href='#'>repository link</a>: technologies</li>
     <li><a target='_blank' href='#'>repository link</a>: technologies</li>
