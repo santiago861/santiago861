@@ -29,11 +29,6 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 
-<h3>Data Bases</h3>
-
-
-
-
 
 <h2>Projects</h2>
 <h3>Algorithmic Trading</h3>
