@@ -23,6 +23,7 @@
 <h3>Tools</h3>
 
 ![AWS](https://skillicons.dev/icons?i=aws)
+![DOCKER](https://skillicons.dev/icons?i=docker)
 ![GIT](https://skillicons.dev/icons?i=git)
 ![POSTGRESQL](https://skillicons.dev/icons?i=postgres&theme=light)
 ![HTML](https://skillicons.dev/icons?i=html)
