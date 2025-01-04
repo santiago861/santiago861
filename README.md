@@ -33,7 +33,7 @@
 <h2>Projects</h2>
 <h3>Algorithmic Trading</h3>
 <ul>
-    <li><a target='_blank' href='https://github.com/santiago861/MT5-Framework.git'>MT5-Framework</a>: Python, Amazon Web Services (AWS)</li>
+    <li><a target='_blank' href='https://github.com/santiago861/Trading-Framework-MT5.git'>Trading-Framework-MT5</a>: Python, Amazon Web Services (AWS)</li>
     <li><a target='_blank' href='#'>repository link</a>: technologies</li>
 </ul>
 <h3>Projects by Topic</h3>
@@ -53,7 +53,7 @@
 
 <h2>Featured Repositories</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santiago861&repo=Trading-Framework-MT5&theme=midnight-purple)](https://github.com/santiago861/MT5-Framework.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santiago861&repo=Trading-Framework-MT5&theme=midnight-purple)](https://github.com/santiago861/Trading-Framework-MT5.git)
 
 <h2>How to reach Me</h2>
 
