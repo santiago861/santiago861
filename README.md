@@ -1,4 +1,4 @@
-<h1>Hi there 👋</h1> <p></p><p></p>
+<h1>Hi there 👋</h1>
 
 <!--
 - Im currently working on...
