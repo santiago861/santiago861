@@ -34,12 +34,6 @@
 <h3>Algorithmic Trading</h3>
 <ul>
     <li><a target='_blank' href='https://github.com/santiago861/Trading-Framework-MT5.git'>Trading-Framework-MT5</a>: Python, Amazon Web Services (AWS)</li>
-    <li><a target='_blank' href='#'>repository link</a>: technologies</li>
-</ul>
-<h3>Projects by Topic</h3>
-<ul>
-    <li><a target='_blank' href='#'>repository link</a>: technologies</li>
-    <li><a target='_blank' href='#'>repository link</a>: technologies</li>
 </ul>
 
     
