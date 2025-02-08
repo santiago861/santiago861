@@ -30,12 +30,12 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 
 
-<h2>Projects</h2>
+<!-- <h2>Projects</h2>
 <h3>Algorithmic Trading</h3>
 <ul>
     <li><a target='_blank' href='https://github.com/santiago861/Trading-Framework-MT5.git'>Trading-Framework-MT5</a>: Python, Amazon Web Services (AWS)</li>
 </ul>
-
+-->
     
 
 <h2>GitHub Stats</h2>
