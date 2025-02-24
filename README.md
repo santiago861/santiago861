@@ -15,12 +15,14 @@
 
 <h2>Skill Stack</h2>
 <h3>Programming Languages</h3>
+<p>Java | Python | JavaScript</p>
 
 ![JAVA](https://skillicons.dev/icons?i=java)
 ![PYTHON](https://skillicons.dev/icons?i=python)
 ![JAVA-SCRIPT](https://skillicons.dev/icons?i=js)
 
 <h3>Tools</h3>
+<p>PostgreSQL | HTML | CSS | AWS (Amazon Web Services) | Docker | Git | React | Redux</p>
 
 ![POSTGRESQL](https://skillicons.dev/icons?i=postgres&theme=light)
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -28,7 +30,8 @@
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![DOCKER](https://skillicons.dev/icons?i=docker)
 ![GIT](https://skillicons.dev/icons?i=git)
-
+![REACT](https://skillicons.dev/icons?i=react)
+![REDUX](https://skillicons.dev/icons?i=redux)
 
 
 
