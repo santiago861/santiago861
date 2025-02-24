@@ -20,12 +20,9 @@
 ![PYTHON](https://skillicons.dev/icons?i=python)
 ![JAVA-SCRIPT](https://skillicons.dev/icons?i=js)
 
-<h3>Back End</h3>
+<h3>BackEnd & FrontEnd</h3>
 
 ![POSTGRESQL](https://skillicons.dev/icons?i=postgres&theme=light)
-
-<h3>Front End</h3>
-
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 
