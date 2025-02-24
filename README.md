@@ -20,7 +20,11 @@
 ![PYTHON](https://skillicons.dev/icons?i=python)
 ![JAVA-SCRIPT](https://skillicons.dev/icons?i=js)
 
-<h3>Front End Tools</h3>
+<h3>Back End</h3>
+
+![POSTGRESQL](https://skillicons.dev/icons?i=postgres&theme=light)
+
+<h3>Front End</h3>
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -33,7 +37,7 @@
 <h3>Tools</h3>
 
 ![GIT](https://skillicons.dev/icons?i=git)
-![POSTGRESQL](https://skillicons.dev/icons?i=postgres&theme=light)
+
 
 
 
