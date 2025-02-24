@@ -20,14 +20,21 @@
 ![PYTHON](https://skillicons.dev/icons?i=python)
 ![JAVA-SCRIPT](https://skillicons.dev/icons?i=js)
 
-<h3>Tools</h3>
+<h3>Front End Tools</h3>
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+<h3>Cloud & DevOps</h3>
 
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![DOCKER](https://skillicons.dev/icons?i=docker)
+
+<h3>Tools</h3>
+
 ![GIT](https://skillicons.dev/icons?i=git)
 ![POSTGRESQL](https://skillicons.dev/icons?i=postgres&theme=light)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+
 
 
 <!-- <h2>Projects</h2>
