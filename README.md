@@ -22,7 +22,7 @@
 
 <h3>BackEnd & FrontEnd</h3>
 
-![POSTGRESQL](https://skillicons.dev/icons?i=postgres&theme=light)
+![POSTGRESQL](https://skillicons.dev/icons?i=postgres&theme=light) <br>
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 
