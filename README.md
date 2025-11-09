@@ -60,7 +60,6 @@ Data Scientist
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/santiago-reyes-257778283/)
 [![MailTo](https://skillicons.dev/icons?i=gmail)](mailto:santiagorm.oficial@gmail.com?subject=Let's%20Work%20Together)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/SantiagoRM861)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/santiago.reyes861/)
 
 
