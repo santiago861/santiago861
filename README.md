@@ -10,7 +10,7 @@
 -->
 
 <h2>About Me</h2>
-
+Data Scientist
 
 
 <h2>Skill Stack</h2>
